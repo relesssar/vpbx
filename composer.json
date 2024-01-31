@@ -1,12 +1,12 @@
 {
-    "name": "relesssar/onyma",
+    "name": "relesssar/vpbx",
     "version": "1.0",
     "type": "library",
     "license": "MIT",
     "require": {},
     "autoload": {
         "psr-4": {
-            "Relesssar\\Onyma\\":"src/"
+            "Relesssar\\Vpbx\\":"src/"
         }
     }
 }
